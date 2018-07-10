@@ -1,0 +1,78 @@
+
+# Level 1
+
+START_LEVEL
+level_name:Lets Go
+ball_velocities:0,550 10,550 20,550 30,550
+background:color(white)
+paddle_speed:650
+paddle_width:100
+block_definitions:definitions/lets_go_block_definitions.txt
+blocks_start_x:10
+blocks_start_y:120
+row_height:25
+num_blocks:0
+START_BLOCKS
+-
+-
+-
+-
+--l-l-l-l-l-l-l-
+---z-z-z-z-z-z-z-
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+
+START_LEVEL
+level_name: No Time To design
+ball_velocities:50,550 20,550 30,550
+background:color(black)
+paddle_speed:650
+paddle_width:250
+block_definitions:definitions/no_time_to_design_block_definitions.txt
+blocks_start_x:200
+blocks_start_y:50
+row_height:25
+num_blocks:0
+START_BLOCKS
+-
+-
+-
+-lllllllllllll-
+-lllzlllllzlll-
+-zlllllllllllz-
+-lzlllllllllzl-
+-lzzlllllllzzl-
+-llzzzzzzzzzll-
+-lllzzzzzzzlll-
+-lllllllllllll-
+END_BLOCKS
+END_LEVEL
+
+# Level 3
+
+START_LEVEL
+level_name: the BEST
+ball_velocities:45,550 50,600
+background:color(red)
+paddle_speed:650
+paddle_width:200
+block_definitions:definitions/the_best_block_definitions.txt
+blocks_start_x:200
+blocks_start_y:80
+row_height:25
+num_blocks:0
+START_BLOCKS
+-
+-
+-lllllllllllllllll-
+-lllzlllllllllzlll-
+-lllllllzzllllllll-
+-llllzzlllllzzllll-
+-llzzlllllllllzzll-
+-lzzlllllllllllzzl-
+-lllllllllllllllll-
+
+END_BLOCKS
+END_LEVEL
