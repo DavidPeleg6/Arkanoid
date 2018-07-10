@@ -1,2 +1,9 @@
 # Arkanoid
-Intro to OOP course assignments 1-6
+In this project we have created the arkanoid game while using the following desing patterns (all implemented manually):
+* Listener
+* Strategy
+* Builder + Abstract Factory
+* Singleton
+* Decorator
+
+this project only uses a GUI interface implemented by the the instructors
