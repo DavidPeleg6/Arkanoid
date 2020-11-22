@@ -1,5 +1,5 @@
 # Arkanoid
-In this project we have created the arkanoid game while using the following desing patterns (all implemented manually):
+In this project we have created the arkanoid game while using the following design patterns (all implemented manually):
 * Listener
 * Strategy
 * Builder + Abstract Factory
